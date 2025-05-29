@@ -35,19 +35,19 @@ This project demonstrates a variety of methods for time series forecasting appli
 Below are sample visualizations from the prediction models:
 
 ### Forecast Comparisons (RNN, GRU, LSTM)
-![RNN Forecast](/finq_interview/recurrent_nn/multisteps_log_returns_huberloss/n_5/rnn_forecast.png)
-![GRU Forecast](/finq_interview/recurrent_nn/multisteps_log_returns_huberloss/n_5/gru_forecast.png)
-![LSTM Forecast](/finq_interview/recurrent_nn/multisteps_log_returns_huberloss/n_5/lstm_forecast.png)
+![RNN Forecast](/recurrent_nn/multisteps_log_returns_huberloss/n_5/rnn_forecast.png)
+![GRU Forecast](/recurrent_nn/multisteps_log_returns_huberloss/n_5/gru_forecast.png)
+![LSTM Forecast](/recurrent_nn/multisteps_log_returns_huberloss/n_5/lstm_forecast.png)
 
 ### Transformer Step-by-Step Prediction
-![Transformer Step 10](/finq_interview/attention/GE_step10_prediction.png)
-![Transformer Full Series](/finq_interview/attention/GE_full_series_prediction.png)
+![Transformer Step 10](/attention/GE_step10_prediction.png)
+![Transformer Full Series](/attention/GE_full_series_prediction.png)
 
 ### Kalman Filter Output
-![Kalman Filtered Price](/finq_interview/kalman/kalman_filtered_price.png)
+![Kalman Filtered Price](/kalman/kalman_filtered_price.png)
 
 ### ETS Forecast
-![ETS Forecast](/finq_interview/exponential smoothing (ets)/ets_forecast.png)
+![ETS Forecast](/exponential smoothing (ets)/ets_forecast.png)
 
 ---
 
