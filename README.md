@@ -47,7 +47,7 @@ Below are sample visualizations from the prediction models:
 ![Kalman Filtered Price](/kalman/kalman_filtered_price.png)
 
 ### ETS Forecast
-![ETS_Forecast](/exponential smoothing (ets)/ets_forecast.png)
+![ETS_Forecast](/exponential_smoothing_(ets)/ets_forecast.png)
 
 ---
 
