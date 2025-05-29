@@ -66,7 +66,7 @@ This project is organized by method. To run a specific model:
 
 ## ✍️ Author
 
-Project by [Ido Gabay](https://github.com/ido-gabay)
+Project by [Ido Gabay](https://github.com/idogabay1)
 
 ---
 
